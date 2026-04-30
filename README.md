@@ -5,10 +5,10 @@
 ## Problem
 A freelance web developer in Cebu, Philippines frequently loses out on $50–$100 initial milestone payments because Western clients refuse to pay $25 traditional wire fees for small increments, forcing the developer to take on unpaid risk.
 
-## Solution
+## Project Description (Solution)
 Clients lock the full project budget (USDC) into a Soroban smart contract escrow. The freelancer can draw from this pool in small increments as micro-milestones are approved. By leveraging Stellar’s sub-cent fees, continuous micro-dispersals become financially viable and instant.
 
-## Timeline
+## Future Scope (Timeline)
 * **Day 1:** Smart contract development and unit testing.
 * **Day 2:** Frontend web app integration with Freighter wallet.
 * **Day 3:** Testnet deployment, local anchor mapping, and final pitch prep.
